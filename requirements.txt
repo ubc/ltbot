@@ -1,3 +1,4 @@
 dotmap
 slackclient
+hub2lab
 errbot==5.1.3
