@@ -1,3 +1,3 @@
 dotmap
 slackclient
-errbot
+errbot==5.1.3
