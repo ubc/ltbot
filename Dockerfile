@@ -10,7 +10,8 @@ RUN apk add --no-cache git \
    gcc \
    musl-dev \
    libffi-dev \
-   openssl-dev
+   libressl-dev \
+   openldap-dev
 
 
 WORKDIR /src
