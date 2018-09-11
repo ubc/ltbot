@@ -5,7 +5,7 @@ LABEL maintainer="pan.luo@ubc.ca"
 ENV BOT_DATA_DIR=/srv/data \
     BOT_EXTRA_PLUGIN_DIR=/srv/plugins
 
-RUN apk add --no-cache git \
+RUN apk add --no-cache git libldap \
    && apk add --no-cache --virtual .build-deps  \
    gcc \
    musl-dev \
