@@ -1,4 +1,5 @@
 dotmap
 slackclient
 hub2lab
+git+git://github.com/ubc/mattermost-sync#egg=mattermost-sync
 errbot==5.2.0
