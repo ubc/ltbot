@@ -3,4 +3,4 @@ errbot[slack]
 hub2lab==1.6.0
 python-ldap==3.1.0
 git+git://github.com/ubc/mattermost-sync#egg=mattermost-sync
-errbot==6.1.4
+errbot==6.1.6
