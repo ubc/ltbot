@@ -1,6 +1,6 @@
 dotmap
 errbot[slack]
-hub2lab==1.6.0
+hub2lab==1.6.1
 python-ldap==3.4.3
 git+https://github.com/ubc/mattermost-sync@v1.1.1#egg=mattermost-sync
 errbot==6.1.9
